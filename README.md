@@ -43,4 +43,4 @@ Microsoft Excel – Data preparation and dataset creation
 Provides actionable insights into cybersecurity risks and economic impact
 Demonstrates skills in data analysis, visualization, and storytelling
 
-Screenshot :
+Screenshot :https://github.com/sagar-gulia/Cyber-Attacks-on-India-Threat-Intelligence-Financial-Impact-Analysis/blob/main/Cyber%20Attacks%20on%20India%20Screenshot.png
